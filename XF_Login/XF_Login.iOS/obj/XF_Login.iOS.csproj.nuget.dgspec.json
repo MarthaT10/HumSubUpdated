@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login.iOS\\XF_Login.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login.iOS\\XF_Login.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login.iOS\\XF_Login.iOS.csproj",
+        "projectName": "XF_Login.iOS",
+        "projectPath": "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login.iOS\\XF_Login.iOS.csproj",
+        "packagesPath": "C:\\Users\\Martha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Martha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login\\XF_Login.csproj": {
+                "projectPath": "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login\\XF_Login.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.617, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login\\XF_Login.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login\\XF_Login.csproj",
+        "projectName": "XF_Login",
+        "projectPath": "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login\\XF_Login.csproj",
+        "packagesPath": "C:\\Users\\Martha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Martha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.617, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

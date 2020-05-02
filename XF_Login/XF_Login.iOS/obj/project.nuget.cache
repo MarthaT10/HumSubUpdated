@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7XPjj+vIciYf68M5fRIZt0E0xfmp2cm/YfHw4yhShOAcXNEZd0LQ63F1Glregcc2WGpQljHF+xDoDjF9dp7ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martha\\Desktop\\new (2)\\new\\XF_Login\\XF_Login.iOS\\XF_Login.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martha\\.nuget\\packages\\firebasedatabase.net\\4.0.4\\firebasedatabase.net.4.0.4.nupkg.sha512",
+    "C:\\Users\\Martha\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
+    "C:\\Users\\Martha\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Martha\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
+    "C:\\Users\\Martha\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Martha\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Martha\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Martha\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512"
+  ],
+  "logs": []
+}

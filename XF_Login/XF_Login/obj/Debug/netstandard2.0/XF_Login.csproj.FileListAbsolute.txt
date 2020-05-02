@@ -1,0 +1,44 @@
+D:\New folder (2)\XF_Login\XF_Login\bin\Debug\netstandard2.0\XF_Login.deps.json
+D:\New folder (2)\XF_Login\XF_Login\bin\Debug\netstandard2.0\XF_Login.dll
+D:\New folder (2)\XF_Login\XF_Login\bin\Debug\netstandard2.0\XF_Login.pdb
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.csprojAssemblyReference.cache
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\WelcomPage.xaml.g.cs
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\XF_LoginPage.xaml.g.cs
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\XF_SignUpPage.xaml.g.cs
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.csproj.CoreCompileInputs.cache
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.AssemblyInfoInputs.cache
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.AssemblyInfo.cs
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\XamlC.stamp
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.dll
+D:\New folder (2)\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.pdb
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\bin\Debug\netstandard2.0\XF_Login.deps.json
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\bin\Debug\netstandard2.0\XF_Login.dll
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\bin\Debug\netstandard2.0\XF_Login.pdb
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.csprojAssemblyReference.cache
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\WelcomPage.xaml.g.cs
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\XF_LoginPage.xaml.g.cs
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\XF_SignUpPage.xaml.g.cs
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.AssemblyInfoInputs.cache
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.AssemblyInfo.cs
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.dll
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.pdb
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nicholas Nguyen\Downloads\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\Settings.xaml.g.cs
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\bin\Debug\netstandard2.0\XF_Login.deps.json
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\bin\Debug\netstandard2.0\XF_Login.dll
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\bin\Debug\netstandard2.0\XF_Login.pdb
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.csprojAssemblyReference.cache
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\Settings.xaml.g.cs
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\WelcomPage.xaml.g.cs
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\XF_LoginPage.xaml.g.cs
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\View\XF_SignUpPage.xaml.g.cs
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.csproj.CoreCompileInputs.cache
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.AssemblyInfoInputs.cache
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.AssemblyInfo.cs
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.dll
+C:\Users\Martha\Desktop\new (2)\new\XF_Login\XF_Login\obj\Debug\netstandard2.0\XF_Login.pdb
